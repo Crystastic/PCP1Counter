@@ -1,0 +1,6 @@
+This was designed and used on a 4K display.
+Feel free to poke around and see whats what.
+Theres some stuff to be changed in the "scripts.js" if you want.
+Comments there will tell you what it does.
+Enjoy!
+- Chris E

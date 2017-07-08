@@ -1,0 +1,62 @@
+/*CSS*/
+#main {
+	height: 99%;
+	width: 99%;
+	background: url("images/bg02.jpg") repeat;
+	position: fixed;
+	text-align: center !important;
+}
+
+#freeFor{
+
+}
+#timer{
+	position: relative;
+	text-align: center;
+}
+#P1Counter{
+	/*margin-top: -5%;*/
+}
+#lastDate{
+	position: relative;
+	text-align: center;
+	/*margin-top: -5%;*/
+}
+#resetButton{
+	display: inline-block;
+	font-size: 32px;
+	text-align: center;
+	/*margin-right:2.5%;*/
+}
+#stopButton{
+	display: inline-block;
+	font-size: 32px;
+	text-align: center;
+	/*margin-left:2.5%;*/
+}
+
+/*Fonts*/
+h1{
+	text-align: center;
+	font-size: 750%;
+}
+
+h2{
+	text-align: center;
+	font-size: 1250%;
+	line-height: 1.40;
+}
+h3{
+	text-align: center;
+	font-size: 750%;
+	line-height: 1.40;
+}
+
+/*HTML*/
+
+body{
+	background: url("images/bg01.jpg") repeat;
+    font-family: 'Roboto', sans-serif;
+	text-align: center;
+	color:#fff;
+}
